@@ -1,4 +1,4 @@
-__version__ = "1.0.2"
+__version__ = "1.0.3"
 
 from hackernews_scraper.hnscraper import (CommentScraper, StoryScraper,
         TooManyItemsException)
